@@ -1,6 +1,6 @@
 # 使用
 
-## 按钮使用方法 <a href="#how-to-use-the-buttons" id="how-to-use-the-buttons"></a>
+## 按钮使用方法 <a href="#button" id="button"></a>
 
 ### 常规界面下 <a href="#general" id="general"></a>
 
