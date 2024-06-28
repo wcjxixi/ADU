@@ -2,7 +2,7 @@
 
 | Module                   | Specification                | Function                                                                                                    | Note                               |
 | ------------------------ | ---------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| Host                     | Based on ESP32-D0WD-V3       | Core Module                                                                                                 |                                    |
+| Main Unit                | Based on ESP32-D0WD-V3       | Core Module                                                                                                 |                                    |
 | OBD Adapter              | BT3.0 or BLE                 | Used for communication between ADU and vehicle                                                              | Recommended for Vgate iCar Pro BLE |
 | Main Display Module      | 1.6" 130\*130 TFT sun screen | Used for main display                                                                                       |                                    |
 | Secondary Display Module | 1.3" 128\*32 OLED            | Used for additional display                                                                                 |                                    |
