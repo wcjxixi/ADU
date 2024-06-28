@@ -4,7 +4,7 @@
 
 <figure><img src=".gitbook/assets/SettingMenu.png" alt=""><figcaption><p>设置菜单全览</p></figcaption></figure>
 
-## 固件升级 (OTA) <a href="#ota" id="ota"></a>
+## 固件升级 (OTA) <a href="#firmware-upgrade-ota" id="firmware-upgrade-ota"></a>
 
 进入「设置菜单」 → 「固件升级(OTA) 」界面后，将自动关闭 ADU 设备的蓝牙并开启 WiFi，ADU 设备作为 AP（接入点）用于接收 OTA 固件。
 
@@ -27,6 +27,6 @@
 放心！升级失败并不会导致 ADU 无法使用！
 {% endhint %}
 
-## 重置设备 <a href="#reset" id="reset"></a>
+## 重置设备 <a href="#reset-device" id="reset-device"></a>
 
 设备重置后将恢复为默认值。需根据需要修改设置参数（特别是**选择蓝牙头型号**、以及**修改陀螺仪摆放反向**以及**校准陀螺仪**）。
