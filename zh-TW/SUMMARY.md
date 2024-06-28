@@ -1,8 +1,8 @@
 # Table of contents
 
-* [关于](README.md)
-* [模块](modules.md)
+* [關於](README.md)
+* [模塊](modules.md)
 * [功能](functions.md)
-* [安装](installation.md)
+* [安裝](installation.md)
 * [使用](usage.md)
-* [设置](setting.md)
+* [設定](setting.md)
