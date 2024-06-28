@@ -20,7 +20,7 @@ After entering the 「Setup Menu」 → 「Firmware Upgrade (OTA)」 interface, 
 4. Wait for about 30 seconds, after the ADU device reboots automatically, it indicates that the firmware upgrade is complete.
 
 {% hint style="warning" %}
-If the ADU does not reboot automatically for a long time, it means the upgrade has failed. You need to reboot the ADU manually (using the supplied power switch or car re-lighting), and then re-enter the 「Firmware Upgrade (OTA)」 interface of ADU to try the upgrade again.
+If the ADU does not reboot automatically for a long time, it means the upgrade has failed. You need to reboot the ADU manually (using the supplied power switch or car re-lighting), and then re-enter the 「Firmware Upgrade (OTA)」 interface to try the upgrade again.
 
 Don't worry! A failed upgrade will not render the ADU unusable!
 {% endhint %}
