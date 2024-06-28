@@ -6,6 +6,9 @@ ADU - Additional Display Unit（附加显示单元）。
 
 ## 支持的 OBD 适配器 <a href="#supported-bluetooth-obd-ii-adapter" id="supported-bluetooth-obd-ii-adapter"></a>
 
-* Vgate 的 iCar2、iCar3、iCar Pro、vLinker 系列带 BT3.0 或 BLE 功能的适配器
+* Vgate iCar2、iCar3、iCar Pro 系列带 BT3.0 或 BLE 功能的适配器（推荐 iCar Pro BLE）
+* Vgate vLinker FD/BM/MC 系列带 BT3.0 或 BLE 功能的适配器（未测试，但应该支持）
 * 主控 25K80 v1.5 版本的带蓝牙功能的普通适配器（推荐 KINGBOLEN）
 * 其他 OBD 蓝牙适配器暂未测试
+
+Vgate vLinker FS/MS 系列蓝牙头连接名称好像有数字后缀且不一样，非固定，使用不方便。
