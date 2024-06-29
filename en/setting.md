@@ -2,6 +2,8 @@
 
 ## Settings Menu Overview
 
+<figure><img src=".gitbook/assets/Setting Menu.png" alt=""><figcaption><p>Setting Menu</p></figcaption></figure>
+
 ## Firmware Update (OTA)
 
 After entering the 「Setup Menu」 → 「Firmware Update (OTA)」 interface, the Bluetooth of the ADU device will be turned off and WiFi will be turned on automatically, and the ADU device will be used as an AP (Access Point) to receive OTA firmware.
