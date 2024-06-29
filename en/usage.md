@@ -12,7 +12,7 @@
 
 ### Setting Screen
 
-* **Single Click**: Jump to the next setting item, or switch the setting value
-* **Double Click**: Jump to the next next setting item
-* **Triple Click**: Jump to the next next next setting item
-* **Long Press**: Enter or exit a setting item
+* **Single Click**: Jump to the next setting item, or switch the setting value.
+* **Double Click**: Jump to the next next setting item.
+* **Triple Click**: Jump to the next next next setting item.
+* **Long Press**: Enter or exit a setting item.
