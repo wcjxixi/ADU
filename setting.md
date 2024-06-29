@@ -2,9 +2,9 @@
 
 ## 设置菜单全览 <a href="#setting-overview" id="setting-overview"></a>
 
-<figure><img src=".gitbook/assets/SettingMenu.png" alt=""><figcaption><p>设置菜单全览</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Setting Menu.png" alt=""><figcaption><p>设置菜单全览</p></figcaption></figure>
 
-## 固件更新 (OTA) <a href="#firmware-upgrade-ota" id="firmware-upgrade-ota"></a>
+## 固件更新 (OTA) <a href="#firmware-update" id="firmware-update"></a>
 
 进入「设置菜单」→「固件更新 (OTA)」界面后，将自动关闭 ADU 设备的蓝牙并开启 WiFi，ADU 设备作为 AP（接入点）用于接收 OTA 固件。
 
