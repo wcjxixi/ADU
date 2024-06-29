@@ -2,7 +2,7 @@
 
 ADU - Additional Display Unit（附加顯示單元）。
 
-一款使用 OBDII 藍牙適配器與汽車 ECU 通訊，用於顯示車輛速度、轉速、水溫......，以及車内溫濕度、大氣壓力、俯仰角（坡度）和橫滾角、GPS 資訊等數據的汽車附加顯示裝置。
+一款使用 OBDII 藍牙適配器與汽車 ECU 通訊，用於顯示車輛速度、轉速、水溫......，以及車内溫濕度、大氣壓力、俯仰角（坡度）和橫滾角、GPS 資訊等資料的汽車附加顯示裝置。
 
 ## 支援的 OBD 適配器 <a href="#supported-obd-adapter" id="supported-obd-adapter"></a>
 
