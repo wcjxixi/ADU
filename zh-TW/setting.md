@@ -2,31 +2,31 @@
 
 ## 設定菜單全覽 <a href="#setting-overview" id="setting-overview"></a>
 
-<figure><img src=".gitbook/assets/SettingMenu.png" alt=""><figcaption><p>设置菜单全览</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Setting Menu.png" alt=""><figcaption><p>设置菜单全览</p></figcaption></figure>
 
-## 韌體更新 (OTA) <a href="#firmware-upgrade-ota" id="firmware-upgrade-ota"></a>
+## 韌體更新 (OTA) <a href="#firmware-update" id="firmware-update"></a>
 
-進入「設定菜單」 → 韌體更新(OTA) 」界面后，將自動關閉 ADU 裝置的藍牙並開啓 WiFi，ADU 裝置將作爲 AP（接入點）用於接收 OTA 韌體。
+進入「設定選單」→韌體更新 (OTA)」界面后，將自動關閉 ADU 裝置的藍牙並開啓 WiFi，ADU 裝置將作爲 AP（接入點）用於接收 OTA 韌體。
 
-### 连接参数 <a href="#connection-parameters" id="connection-parameters"></a>
+### 連接參數 <a href="#connection-parameters" id="connection-parameters"></a>
 
-* SSID 名称：`ADU-WiFi`
-* SSID 密码：`12345678`
-* IP 地址：`192.168.99.1`
+* SSID 名稱：`ADU-WiFi`
+* SSID 密碼：`12345678`
+* IP 位址：`192.168.99.1`
 
-### 升级步骤 <a href="#upgrade-steps" id="upgrade-steps"></a>
+### 更新步驟 <a href="#update-steps" id="update-steps"></a>
 
-1. 将已编译的固件 (.bin 文件) 下载到手机等设备
-2. 进入 ADU 的「设置菜单」 → 「固件升级(OTA) 」界面
-3. 手机等设备连接 `ADU-WiFi` 网络后，浏览器打开 `192.168.99.1`，根据页面提示上传固件 (.bin 文件)
-4. 等待约 30 秒，ADU 设备自动重启后，即完成固件升级
+1. 將已編譯的韌體 (.bin 檔案) 下載到手機等裝置
+2. 進入 ADU 的「設定選單」→「韌體更新 (OTA)」界面
+3. 手機等裝置連接 `ADU-WiFi` 網路后，瀏覽器打開 `192.168.99.1`，根據頁面提示上傳韌體 (.bin 檔案)
+4. 等待約 30 秒，ADU 裝置自動重啓后，即完成韌體更新
 
 {% hint style="warning" %}
-若 ADU 长时间未自动重启，代表升级失败。需手动重启 ADU（使用自带电源开关或汽车重新点火），然后重新进入 「固件升级(OTA) 」 界面再次尝试升级。
+若 ADU 長時間未自動重啓，代表更新失敗。需手動重啓 ADU（使用自帶電源開關或汽車重新點火），然後重新進入「韌體更新 (OTA)」界面再次嘗試更新。
 
-放心！升级失败并不会导致 ADU 无法使用！
+放心！更新失敗并不會導致 ADU 無法使用！
 {% endhint %}
 
-## 重置设备 <a href="#reset-device" id="reset-device"></a>
+## 重置裝置 <a href="#reset-device" id="reset-device"></a>
 
-设备重置后将恢复为默认值。需根据需要修改设置参数（特别是**选择蓝牙头型号**、以及**修改陀螺仪摆放反向**以及**校准陀螺仪**）。
+裝置重置后將恢復初始值。需根據需要修改設定參數（特別是**選擇藍牙適配器型號**、以及**修改陀螺儀擺放方位**和**校準陀螺儀**）。
