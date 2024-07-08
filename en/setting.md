@@ -2,7 +2,7 @@
 
 ## Settings Menu Overview
 
-<figure><img src=".gitbook/assets/Setting Menu.png" alt=""><figcaption><p>Setting Menu</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Setting_Menu_EN.png" alt=""><figcaption><p>Setting Menu</p></figcaption></figure>
 
 ## Firmware Update (OTA)
 
