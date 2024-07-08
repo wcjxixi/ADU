@@ -2,7 +2,7 @@
 
 ## 设置菜单全览 <a href="#setting-overview" id="setting-overview"></a>
 
-<figure><img src=".gitbook/assets/Setting Menu.png" alt=""><figcaption><p>设置菜单全览</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Setting_Menu_ZH.png" alt=""><figcaption><p>设置菜单</p></figcaption></figure>
 
 ## 固件更新 (OTA) <a href="#firmware-update" id="firmware-update"></a>
 
