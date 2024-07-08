@@ -1,8 +1,8 @@
 # 設定
 
-## 設定菜單全覽 <a href="#setting-overview" id="setting-overview"></a>
+## 設定選單全覽 <a href="#setting-overview" id="setting-overview"></a>
 
-<figure><img src=".gitbook/assets/Setting Menu.png" alt=""><figcaption><p>设置菜单全览</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Setting_Menu_ZH.png" alt=""><figcaption><p>設定選單</p></figcaption></figure>
 
 ## 韌體更新 (OTA) <a href="#firmware-update" id="firmware-update"></a>
 
