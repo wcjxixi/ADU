@@ -16,9 +16,9 @@ After entering the 「Setup Menu」 → 「Firmware Update (OTA)」 interface, t
 
 ### Update Steps
 
-1. Download the compiled firmware (.bin file) to your cell phone or other devices.
+1. Download the compiled firmware (`.bin` file) to your cell phone or other devices.
 2. Go to 「Setting Menu」 → 「Firmware Update (OTA)」 interface of ADU.
-3. After the cell phone and other devices are connected to `ADU-WiFi` network, open `192.168.99.1` in the browser and upload the firmware (.bin file) according to the instructions on the page.
+3. After the cell phone and other devices are connected to `ADU-WiFi` network, open `192.168.99.1` in the browser and upload the firmware (`.bin` file) according to the instructions on the page.
 4. Wait for about 30 seconds, after the ADU device reboots automatically, it indicates that the firmware update is complete.
 
 {% hint style="warning" %}
